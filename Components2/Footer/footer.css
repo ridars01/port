@@ -1,0 +1,55 @@
+.footerpages {
+    display: block ;
+    position: absolute;
+    padding-left: 3%;
+    list-style: none;
+    text-align: left;
+    color: #555;
+    /*line-height: 150%;*/
+    line-height:1.6;
+  }
+  
+  .footerpages ul li {
+    color:#fff;
+    
+  }
+ a:visited{
+      color: #fff;
+      
+  }
+  #main-footer {
+    text-align: center;
+    background: #564138;
+    color: #fff;
+    
+    max-width: 90%;
+    max-width:100%;
+    overflow: auto;
+    padding-top: 3%;
+    
+  }
+  
+  #main-footer p {
+    padding-top: 2%;
+  }
+  
+  .social {
+    justify-content: center;
+  }
+  .social-icon {
+    color: #fff;
+    font-size: 1.5em;
+  }
+  .divider {
+    margin: 0 25px;
+  }
+  
+  .arrow {
+    display: block;
+    position: relative;
+    list-style: none;
+    float: right;
+    color: #fff;
+    padding-right: 7%;
+    padding-bottom: 2%;
+  }

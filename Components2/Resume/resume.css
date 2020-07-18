@@ -1,0 +1,40 @@
+.resume-img-style{
+    margin: 10px ;
+   object-fit: cover;
+   border: 10px inset#800000;
+}
+
+.about-container2{
+    display: grid; 
+    grid-template-columns: 300px auto ;
+}
+.open-resume{
+    background-color: #111; 
+    opacity: 0.9; 
+    
+ 
+}
+.open-resume-style{
+    opacity: none ; 
+    height: 900px; 
+    width: 700px ; 
+}
+.about-box-text2{
+        margin-left:500px;
+        text-align : center ; 
+        margin-top: 50px;
+      
+}
+.resume-item{
+    margin-left:60px;
+}
+.full-screen-style{
+    font-size: 13px;
+    font-weight: bold;
+}
+.left-arrow-style{
+    margin-top: 20px ; 
+    font-size: 20px;
+    color:#273469 ; 
+   
+}

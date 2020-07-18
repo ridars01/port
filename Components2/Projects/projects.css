@@ -1,0 +1,120 @@
+
+.section-header{
+    margin: 20px ; 
+}
+.section-header-style{
+   /* font-family: 'Monoton', cursive;*/
+   font-family: 'Lato', sans-serif;;
+    color: #564138 ; 
+    text-align: center;
+    margin-top: 40px ;
+    margin-bottom: 55px;  
+    border-top: #60495A 5px solid ; 
+    border-bottom:  #60495A 5px solid ; 
+    
+}
+.section-tip-style{
+    text-align: center;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+
+
+
+.open-project{
+    opacity: 0.9; 
+    /*margin:40px; */
+
+}
+.project-img-style{
+    /*margin: 10px ;*/
+    object-fit: cover;
+    height: 240px;
+   
+    /*border: 10px inset#800000;*/
+}
+.button-styling{
+    margin-top: 10px ; 
+    margin-bottom: 7px; 
+    width: 40% ; 
+    margin-left: 26px;
+    border-radius: 10px ; 
+    background-color: #60495A;
+    color: white;
+}
+.demoObject{
+    /*
+    border: 10px inset#56876D;*/
+    border: 10px inset #CB997E;
+}
+
+.viewme{
+    font-weight: bold;
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: #AF6B46;
+}
+.grid-container{
+
+    display:grid;
+    grid-template-columns: auto auto auto   ;
+    grid-gap: 50px ;
+    margin: 30px 0px 120px 110px;
+
+    
+
+}
+h3{
+    text-align: center;
+}
+
+
+  .btn-group Button {
+      margin-top: 0 ; 
+      margin-bottom: 10px; 
+      display: block ; 
+  }
+
+
+
+  .grid-item {
+    /*background-color: #f5f5f5;*/
+    /*background-color : #385E3C ;*/
+    border:  6px inset#CB997E;
+    box-shadow: 5px 10px 18px #888888;
+    text-align: center;
+    /*padding: 20px 0;*/
+    /*padding-top: 20px ;*/
+
+    font-size: 30px;
+    width: 300px; 
+    height :250px; 
+  }
+  .product-img{
+      width: 250px; 
+      height : 200px ; 
+      /*height:100% ;*/
+      background-size: cover;
+      /*border:solid black; */
+  }
+  .content{
+      margin-top : 15px;
+      text-align:center ;
+      font-size: 12px; 
+      /*font-family: 'Russo One', sans-serif;*/
+      font-family: serif;
+
+  }
+  .content h4{
+    font-family: 'Russo One', sans-serif;;
+  }
+  .content p{
+      padding-top: 20px;
+  }
+  .project-description{
+     margin-left: 40px; 
+  }
+  .indented-bullets{
+      margin-left: 35px ; 
+  }

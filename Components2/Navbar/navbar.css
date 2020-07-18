@@ -1,0 +1,76 @@
+
+
+#navbar{
+    background-color: #564138;
+     height:80px; 
+     width:100%;
+ }
+ label.logo{
+     color:#20B2AA ;
+     font-size: 50px; 
+     line-height: 80px;
+     padding: 0 100px ; 
+     font-weight: bold; 
+     font-style: italic;
+     font-family: 'Russo One';
+ }
+ .logo-img {
+     width: 60px; 
+     height:60px; 
+     padding:5px;
+ }
+ #navbar ul{
+     float: right; 
+     margin-right: 20px; 
+ }
+ #navbar ul li{
+     display:inline-block; 
+     line-height: 80px; 
+     margin: 0 20px; 
+ }
+ #navbar ul li a {
+     color:/*#A6BFBF*/#fff;
+     font-size: 17px ; 
+     padding: 7px 13px ; 
+     border-radius:3px;
+     text-decoration: none;
+     font-family: 'Lato', sans-serif;
+ 
+ }
+  #navbar ul li a:hover,
+  #navbar ul li a.current {
+     background: #3680AD;
+     color: #F5F5F5;
+     transition: .5s ; 
+ }
+ label.logo a:visited {
+   color: #20B2AA ; 
+ }
+ .checkbtn{
+     font-size:30px; 
+     color:rgb(0, 0, 0); 
+     float:right;
+     line-height: 80px; 
+     margin-right:40px ; 
+     cursor:pointer;
+     display:none;
+ }
+ #check{
+     display:none; 
+ }
+ 
+ 
+ /*ICONS*/
+#features{
+   margin-top : 60px;
+   /*border: solid black 3px ;*/
+ }
+ .box {
+  
+   display: inline-block;
+   /*width: 33.4%; /*split page up into 1/3's*/
+   padding : 50px;
+   text-align:center; 
+ }
+
+ 

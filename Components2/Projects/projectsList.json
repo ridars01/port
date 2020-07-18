@@ -1,0 +1,9 @@
+ [
+    
+         {
+            "id": "1",
+            "title" :"Gateway Project" , 
+            "description": "A website centered around the city of Vancouver.Created using HTML / CSS" ,
+            "image":"./projectImgs/ecom2.jpg"
+        }
+    ]
