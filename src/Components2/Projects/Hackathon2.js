@@ -41,7 +41,7 @@ class Hackathon extends React.Component {
                                 </ul>
                                 </div>
                                 <h4 className="viewme">View me through:</h4>
-                                <a href="https://github.com/NicolasConaway/Hope_Hackathon" target="_blank"><button className="button-styling">Github</button></a>
+                                <a href="https://github.com/NicolasConaway/Hope_Hackathon" target="_blank"><button className="button-styling button-styling2">Github</button></a>
                             </div>
                         </Modal>
 

@@ -6,7 +6,7 @@ return(
      <nav id = "navbar">
                 <input type="checkbox" id="check"/>
                      <label for="check" className="checkbtn">
-                        <i className="fa fa-bars"></i>
+                        <i className="fa fa-bars bars-styling"></i>
                         </label>
                     
             

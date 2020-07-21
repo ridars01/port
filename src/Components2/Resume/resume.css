@@ -38,3 +38,18 @@
     color:#273469 ; 
    
 }
+@media screen and (min-width: 375px)  and (max-width: 650px){
+    .resume-item{
+        margin-left:-40px;
+    }
+    .resume-img-style{
+        margin: 10px ;
+       object-fit: cover;
+       border: 10px inset#800000;
+       width: 200px ; 
+       margin-top: 50px;
+    }
+    .resume-header-style{
+     margin-right: 40px ; 
+    }
+}

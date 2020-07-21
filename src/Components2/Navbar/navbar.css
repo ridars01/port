@@ -73,4 +73,51 @@
    text-align:center; 
  }
 
+
+ @media screen and (min-width: 375px)  and (max-width: 650px){
+
+    .checkbtn{
+        display: block;
+      }
+      ul{
+        /*position: fixed;*/
+        position:absolute; 
+        z-index: 10 ; 
+        width: 60vw;
+        height:95%;
+        background: #C5A48A;
+        top: 80px;
+        left: -100%;
+        text-align: center;
+        transition: all .5s;
+        opacity: 90% ; 
+    
+        
+      }
+      nav ul li{
+        display: block; 
+        margin: 50px 0;
+        line-height: 30px;
+        text-align: center ; 
+    
+      }
+      nav ul li a{
+        font-size: 20px;
+      }
+      a:hover,a.active{
+        background: none;
+        color: #0082e6;
+        
+      }
+      #check:checked ~ ul{
+        left: 0;
+        
+
+      }
+      .bars-styling{
+          color: #fff ; 
+      }
+
+
+}
  

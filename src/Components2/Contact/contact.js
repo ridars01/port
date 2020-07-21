@@ -25,9 +25,9 @@ const Contact = () => {
 
             <div className = "grid-item-contact ">
                 
-                            <h3><span className = "info-style">E-mail:</span> ridars01@gmail.com</h3>
+                            <h3 className = "info-style-1"><span className = "info-style">E-mail:</span> ridars01@gmail.com</h3>
                            
-                            <img src = {chatbox}/>
+                            <img className = "chatbox"src = {chatbox}/>
             </div>
             </section>
         </div>

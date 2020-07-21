@@ -117,3 +117,49 @@
          width:500px; 
          height: 400px;
       }
+
+      @media screen and (min-width: 375px)  and (max-width: 650px){
+        .contact-form {
+          /* padding-right: 200px; */
+          padding-left: 10px;
+          /* padding-top: 50px; */
+          padding-bottom: 80px;
+          height: 650px;
+      }
+      .contact-form-text {
+        width: 80% ; 
+      }
+
+
+      .btn-setting{
+          margin-bottom: 20px;
+          margin-left: 100px;
+      }
+      .grid-item-contact img{
+        
+        width:200px; 
+        height: 200px;
+     }
+     .info-style-1{
+       font-size: 15px;
+       margin-right: 50px;
+     }
+     .chatbox{
+       margin-right: 25px;
+     }
+      }
+      @media screen and (min-width: 768px) and (max-width: 1024px){
+        .contact-form{
+          padding-left: 10px ;
+      }
+      .grid-item-contact img{
+        /*float:right ;*/ 
+        width:300px; 
+        height: 200px;
+        margin-left:15px;
+     }
+     .btn-setting{
+      margin-bottom: 0px;
+      margin-left: 0px;
+  }
+      }
