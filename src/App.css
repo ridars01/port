@@ -9,7 +9,8 @@ body{
   font-family: 'Playfair Display', serif;
   font-size: 1.3rem ; 
   /*background-color: black;*/
-  background-color: #f9f9f9 ; 
+  /*background-color: #f9f9f9 ; */
+  background-color: #fff;
 }
 /*Navigation bar*/
 .header-design{
