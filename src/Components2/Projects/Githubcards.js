@@ -42,7 +42,7 @@ class Githubcards extends React.Component {
 
                                 <h4 className="viewme">View me through:</h4>
                                 <a href="https://github.com/ridars01/react-github-cards" target="_blank"><button className="button-styling">Github</button></a>
-                                <a href="githubcardsridafatimah.netlify.app" target="_blank"><button className="button-styling">Webpage</button></a>
+                                <a href="https://githubcardsridafatimah.netlify.app" target="_blank"><button className="button-styling">Webpage</button></a>
                             </div>
                         </Modal>
 

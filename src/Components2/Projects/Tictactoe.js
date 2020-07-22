@@ -44,7 +44,7 @@ class Tictactoe extends React.Component {
 
                                 <h4 className="viewme">View me through:</h4>
                                 <a href="https://github.com/ridars01/TicTacToe2" target="_blank"><button className="button-styling">Github</button></a>
-                                <a href="tictactoeridafatimah.netlify.app" target="_blank"><button className="button-styling">Webpage</button></a>
+                                <a href="https://tictactoeridafatimah.netlify.app" target="_blank"><button className="button-styling">Webpage</button></a>
                             </div>
                         </Modal>
 

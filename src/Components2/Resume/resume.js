@@ -34,7 +34,7 @@ class Resume extends React.Component {
 
 <div className = "about-box-text2 resume-item" >
 <h3 className = "about-header-style resume-header-style" id ="resume"> RESUME</h3>
-<p className ="about-para-style">Hers's my Resume , where I have listed my skills , experiance , Awards / Certifications , projects , and education ! </p>
+<p className ="about-para-style resume-para-style">Hers's my Resume , where I have listed my skills , experiance , Awards / Certifications , projects , and education ! </p>
 <h4 className="full-screen-style ">CLICK ON RESUME TO VIEW FULL SCREEN</h4>
 
 <i className="fa fa-arrow-left left-arrow-style"aria-hidden="true"/>

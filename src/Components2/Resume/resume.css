@@ -3,6 +3,9 @@
    object-fit: cover;
    border: 10px inset#800000;
 }
+.resume-para-style{
+    padding-left: 120px ; 
+}
 
 .about-container2{
     display: grid; 

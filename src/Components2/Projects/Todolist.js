@@ -45,7 +45,7 @@ class Todolist extends React.Component {
                                 </div>
 
                                 <a href="https://github.com/ridars01/to-do-list" target="_blank"><button className="button-styling">Github</button></a>
-                                <a href="todolistridafatimah.netlify.app" target="_blank"><button className="button-styling">Webpage</button></a>
+                                <a href="https://todolistridafatimah.netlify.app" target="_blank"><button className="button-styling">Webpage</button></a>
                             </div>
                         </Modal>
 
