@@ -36,6 +36,7 @@ class Gateway extends React.Component {
                                 <ul>
                                     <li>Centered around the city of Vancouver,BC</li>
                                     <li>Developed using Semantic HTML and CSS</li>
+                                    <li>Acessibility: 100 </li>
                                 </ul>
                                 </div>
                                 <h4 className="viewme">View me through:</h4>

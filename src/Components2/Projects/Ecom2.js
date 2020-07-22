@@ -34,8 +34,9 @@ class Ecom2 extends React.Component {
                                     <li>Second iteration of the project - transform the products page into react</li>
                                     <li>Developed using: 
                                         <ul className="indented-bullets">
-                                        <li>CSS</li>
+                                        <li>CSS grid</li>
                                         <li>React</li>
+                                        <li>JSON</li>
                                         </ul>
                                         </li>
                                 </ul>

@@ -32,11 +32,13 @@ class Wiki extends React.Component {
                                     <li>Wikipedia Re-design project</li>
                                     <li>Tailored according User stories</li>
                                     <li>Implemented verification and credability evaluation features</li>
-                                    <li>Creates with team collaboration </li>
+                                    <li>team collaboration </li>
                                     <li>Developed using: 
                                         <ul className="indented-bullets">
                                         <li>CSS</li>
                                         <li>React</li>
+                                        <li>Node</li>
+                                        <li>MySQL</li>
                                         </ul>
                                         </li>
                                 </ul>
