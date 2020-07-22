@@ -32,7 +32,7 @@ class Wiki extends React.Component {
                                     <li>Wikipedia Re-design project</li>
                                     <li>Tailored according User stories</li>
                                     <li>Implemented verification and credability evaluation features</li>
-                                    <li>team collaboration </li>
+                                    <li>Team collaboration </li>
                                     <li>Developed using: 
                                         <ul className="indented-bullets">
                                         <li>CSS</li>
@@ -44,7 +44,8 @@ class Wiki extends React.Component {
                                 </ul>
                                 </div>
                                 <h4 className="viewme">View me through:</h4>
-                                <a href="https://github.com/Veronica-B/wikipedia" target="_blank"><button className="button-styling button-styling2">Github</button></a>
+                                <a href="https://github.com/Veronica-B/wikipedia" target="_blank"><button className="button-styling">Github</button></a>
+                                <a href="https://wiki-remade.netlify.app/" target="_blank"><button className="button-styling">Webpage</button></a>
                                 
                             </div>
                         </Modal>
